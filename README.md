@@ -108,6 +108,7 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 - **일정 수정**: 일정 수정 및 재할당
 - **일정 삭제**: 일정 삭제 및 복구
 - **공유 캘린더**: 부서별/팀별 캘린더 공유
+- **실시간 공유**: 웹소켓으로 공유받은 캘린더 일정 변동/추가/삭제 시 다른사람도 바로 반영
 - **언어 변경**: 캘린더 내 사용 언어 변경
 - **동기화**: FullCalendar API 사용 
 
@@ -147,7 +148,7 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 ---
 
 ## 🤝 질문 및 피드백
-- **최준혁 팀장**: (mailto:junhyeokchoi@antwork.com)
+- **하정훈**: (mailto:gkdntn@gmail.com)
 - **GitHub Issues**: [프로젝트 관련 이슈 보고](https://github.com/junhyeokkk/Antwork/issues)
 
 ---
